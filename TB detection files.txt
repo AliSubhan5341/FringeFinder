@@ -1,0 +1,30 @@
+Original Inception V3 Model:
+
+https://colab.research.google.com/drive/1vbg6QL4jsqBGoc330gg-PP8UKjwm3ur4?usp=sharing
+
+
+Code used for testing:
+
+https://colab.research.google.com/drive/19dtNOi1QV3Jtn-VQHAANLhUzXAJUm4Qr?usp=sharing
+
+
+Optimized VGG16 Model:
+
+https://colab.research.google.com/drive/1PAerYkvpOrYeI0ruNgqyTJgqmBcZFISE?usp=sharing
+
+
+saved model file:
+
+https://drive.google.com/file/d/1vph17U1gwQI70e-T49j9ybamVLe1DDFz/view?usp=sharing
+
+
+Data set used:
+
+For training:
+
+https://drive.google.com/drive/folders/164_CA6qGh6vBIrJj2qM2CAIzDsqPHLAW?usp=sharing
+
+
+For Validation:
+
+https://drive.google.com/drive/folders/18Glwkpd0jRUEp7VRyDShXZU23Dz81Cmg?usp=sharing
